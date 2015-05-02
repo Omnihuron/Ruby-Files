@@ -1,3 +1,4 @@
+# For this challenge you will be capitalizing certain characters in a string.
 
 puts "Enter a sentence: "
 str = gets.chomp
