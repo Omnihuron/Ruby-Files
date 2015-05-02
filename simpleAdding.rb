@@ -4,4 +4,6 @@ v1 = ARGV[0]
 
 nums = [*1..Integer(v1)]
 
-puts nums.inject(:+)
+puts nums
+
+#puts nums.inject(:+)
